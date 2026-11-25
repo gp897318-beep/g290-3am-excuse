@@ -1,1 +1,11 @@
-{"name":"g290-3am-excuse","private":true,"type":"module","version":"1.0.0"}
+{
+  "name": "g290-3am-excuse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry: The 3 AM Excuse — a hardware wallet refuses to sign at 3 AM",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
